@@ -10,4 +10,3 @@ value= float(input())
 mult = salary+0.15*value
 
 print('TOTAL = R$', f'{(mult):.2f}')
-
