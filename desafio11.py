@@ -16,8 +16,6 @@ vp1 = float(linhap1[2]) #vp1 é flaot e está na terceira posição
 #agora vou fazer o mesmo para p produto 2 (p2)
 
 
-print("VALOR A PAGAR: R$ %.2f"%VP)
-
 linhap2 = input().split()
 
 cp2 = int(linhap2[0])
@@ -40,4 +38,4 @@ print (f"VALOR A PAGAR: R$ %.2f" % (valorFinal))
 
 #valorFinal = (int(np1) * float(vp1)) + (int(np2) * float(vp2)) #aqui eu declaro os tipos de entrada para naõ dar porblema depois
 
-#print('VALOR A PAGAR: R$ = ', f'{(valorFianl):.2f}')
+#print('VALOR A PAGAR: R$ = ', f'{(valorFianl):.2f}'
