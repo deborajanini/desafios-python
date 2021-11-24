@@ -9,7 +9,7 @@ sendo que cada peça tenha uma mesma linha"""
 
 linhap1 = input().split() #aqui falo que a linhap1 é uma entrada que vai ser dividida (split)
 
-cop1 = int(linhap1[0]) #aqui falo que cp1 recebe um inteiro na primeira posição de linhap1
+cp1 = int(linhap1[0]) #aqui falo que cp1 recebe um inteiro na primeira posição de linhap1
 np1 = int(linhap1[1]) #np1 é inteiro e está na segunda posição
 vp1 = float(linhap1[2]) #vp1 é flaot e está na terceira posição
 
