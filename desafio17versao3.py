@@ -36,7 +36,7 @@ ser também em sequencia crescente (SIM, APÓS TESTAR FOI ISSO QUE ACONTECEU)
 """
 
 #PAra i (item) na lista ordem (ordenada), imprima os itens (ja pula linha)
-for item in lista:
+for item in listaordem:
     print(item)
 print() #pula linha
 for item in lista: #
