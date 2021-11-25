@@ -51,4 +51,3 @@ print(dias, "dia(s)")
 print(horas, "hora(s)")
 print(minutos, "minuto(s)")
 print(segundos, "segundo(s)")
-
